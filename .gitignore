@@ -1,3 +1,10 @@
 env
+
+# pyspark
 spark-warehouse
+
+# notebooks checkpoints
 .ipynb_checkpoints/
+
+# mac
+.DS_Store
